@@ -1,5 +1,5 @@
 def calculate_bonus(salary):
-    return salary * 0.10
+    return salary * 0.20
 
 
 def calculate_total_salary(salary):
